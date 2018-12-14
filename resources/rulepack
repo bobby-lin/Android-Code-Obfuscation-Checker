@@ -1,0 +1,4 @@
+regex:\s([a-z]){1}\s
+regex:\s([a-z]){1}[;]
+regex:\s([a-z])\1*[.]([a-z])\1*
+regex:[.]([a-z])\1*[(]
